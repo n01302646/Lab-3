@@ -1,0 +1,23 @@
+#contact-header
+{
+	background-color:#9EB847;	
+	padding:0.01%;
+	Font-size:40px;
+}
+#menu-ul
+{
+	list-style-type: none;
+	font-family: 'Tangerine', cursive;
+	Font-weight:bold;
+	margin-left:22%;	
+}
+#menu-ul li
+{
+	 display:inline-block;
+	 margin-left:10px;
+}
+#menu-ul li:hover
+{
+	background-color:yellow;
+	padding:5px;
+}

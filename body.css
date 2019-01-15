@@ -1,0 +1,84 @@
+
+html
+{
+	box-sizing:border-box;
+	background-color:white;
+	/*font-family: Lucida Grande, Tahoma, Arial, Verdana, sans-serif;*/
+	font-family: 'Tangerine', cursive;
+	Font-size:29px;
+	font-weight:bold;
+}
+*,*::before,*::after
+{
+	box-sizing:border-box;
+}
+
+/*FORM ELEMENTS*/
+#formDiv
+{
+	width:100%;
+	margin-left:0%;
+	background-color:#f2f9f3;
+	padding:5px;
+	margin-top:10px;
+	border-radius:5px;
+	border-bottom:2px solid #eae245;
+}
+#BookingForm
+{
+	margin-left:5%;
+}
+#formDiv li
+{
+	padding:8px;
+	margin-bottom:3px;
+}
+#formDiv li:hover
+{
+	background-color:yellow;
+}
+.form_description
+{
+	border-bottom: 1px dotted #ccc
+}
+.form-labels
+{
+	margin-bottom:2px;;
+	border: none;
+    color: #222;
+    display: block;
+    font-size: 120%;
+    font-weight: 700;
+    line-height: 150%;
+    padding: 0 0 1px;
+	/*font-family: Lucida Grande, Tahoma, Arial, Verdana, sans-serif;*/
+}
+.tiny-labels
+{
+	clear: both;
+    color: #444;
+    margin-top:3px;
+    font-size: 19px;
+    margin: 0;
+    padding-top: 3px;
+}
+
+#lname
+{
+	margin-left:21.4%;
+}
+.form-inputs
+{
+	padding:9px;
+	width:280px;
+	border-radius:3px;
+}
+#submit
+{
+	padding:8px;
+	margin-left:1%;
+	width:100px;
+	Font-size:18px;
+	margin-top:5px;
+}
+
